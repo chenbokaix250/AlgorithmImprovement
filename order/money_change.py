@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+#输入金额后，能用，分割
 import sys 
 
 n = input("num:")
